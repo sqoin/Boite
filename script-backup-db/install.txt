@@ -1,0 +1,4 @@
+apt-get update 
+apt-get install mutt -y 
+apt-get install sendmail -y
+
